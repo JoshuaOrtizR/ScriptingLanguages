@@ -41,7 +41,7 @@
 * **Polymorphism:** The ability of objects to take on many forms.
 * **Encapsulation:** The bundling of data and methods that operate on that data within a single unit.
 
-**Additional Terms:**
+**SecAdmin Notes:**
 
 * **IDE (Integrated Development Environment):** A software application that provides tools for writing, debugging, and running code.
 * **Script:** A program designed to automate tasks or perform specific operations.
@@ -51,4 +51,3 @@
 * **Debugging:** The process of finding and fixing errors in code.
 * **Testing:** The process of verifying that code works as expected.
 
-By understanding these core concepts and building blocks, you can effectively write Python code to solve a wide range of problems.
