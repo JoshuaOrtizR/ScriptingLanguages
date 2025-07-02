@@ -1,6 +1,6 @@
 **Core Concepts:**
 
-* **Programming:** The art of creating instructions for computers to follow.
+* **Programming:** The process of creating instructions for computers to follow.
 * **Programming Language:** A specific set of rules and syntax used to write these instructions.
 * **Python:** A high-level, general-purpose programming language known for its readability and versatility.
 * **Interpreter:** A program that reads and executes Python code line by line.
