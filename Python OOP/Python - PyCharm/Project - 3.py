@@ -21,3 +21,11 @@ else:
     print("You did noy meet the required score!")
 
 #-----------------------------------------------
+#Logical Operators
+temp = 25
+is_raining = False
+if temp > 35 or temp < 0 or is_raining:
+    print("The outdoor even it cancelled")
+else:
+    print("The outdoor event is still scheduled")
+#-----------------------------------------------
