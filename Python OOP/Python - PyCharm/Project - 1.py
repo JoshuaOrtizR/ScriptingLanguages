@@ -34,6 +34,23 @@ a = str(a)
 print(a)
 print(type(a))
 
+#-----------------------------------------------------------------------------------
+#Temperature Converter
+
+#unit = input("Is this temperature in Celcius or Fahrenheit: (C/F)")
+options = input(" Fahrenheit to Celsius (1) \n Celsius to Fahrenheit (2) \n Select (1 or 2):")
+temp = float(input("Enter the temperature:"))
+
+if options == "1":
+    score1 = round((temp * 9) / 5 + 32, 2)
+    print(f"Fahrenheit Temperature: {score1:.2f} °F")
+elif options == "2":
+    score2 = round((temp - 32) * 5 / 9, 2)
+    print(f"Celcius Temperature: {score2:.2f} °C")
+else:
+    print(f"No valid measure: {options}")
+
+
 
 
 
