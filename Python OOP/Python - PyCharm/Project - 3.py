@@ -29,3 +29,11 @@ if temp > 35 or temp < 0 or is_raining:
 else:
     print("The outdoor event is still scheduled")
 #-----------------------------------------------
+temp = 20
+is_sunny = True
+
+if temp >= 28 and  is_sunny:
+    print("It is hot outside")
+    print("Sunny Days!")
+elif temp <= 0 and is_sunny:
+    print("It's cold outside")
