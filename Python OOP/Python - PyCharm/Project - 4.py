@@ -34,4 +34,22 @@ elif options == "2":
     print(f"{round(convertion2, 2)} LB")
 else:
     print(f"Value has been declined:{options} Try again!")
-
+#-------------------------------------------
+#Conditional Expression
+num = 5
+print("Positive" if num > 0 else "Negative")
+#------------------------------------------
+n = 8
+result = "Even" if n % 2 == 0 else "Odd"
+print(result)
+#------------------------------------------
+num = 5
+a = 6
+b = 7
+max_num = a if a > b else b
+print(max_num)
+#------------------------------------------
+age = input("What is your age?: ")
+age = int(age)
+age = "Minor" if age <= 17 else "Adult"
+print(age)
