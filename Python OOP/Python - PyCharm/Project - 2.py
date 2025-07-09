@@ -31,3 +31,13 @@ import math
 radio = float(input("Enter the radio of the circle:"))
 circunference = 2 * math.pi * radio
 print(f"The Circunference is:{circunference:.2f}")
+
+#----------------------------------------------------
+print("Thank you for participating", "Have a good one!", sep= " - ")
+
+print("""This
+is
+an example
+""")
+print(type(10))
+print(f"The following number 10.5 posses the following type: {type(10.5)}")
