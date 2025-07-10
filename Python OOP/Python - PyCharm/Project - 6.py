@@ -6,6 +6,7 @@ dicciona = {
     "is": "Skrillex"
 }
 
+#-----------------------------------------
 #indexing
 print(lista[0])
 print(dicciona["My"])
