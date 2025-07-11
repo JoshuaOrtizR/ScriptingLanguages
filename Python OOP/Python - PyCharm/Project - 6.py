@@ -19,3 +19,16 @@ print(lista)
 print (lista [2:])
 dicciona ["My"] = "You are"
 print(dicciona)
+
+#-----------------------------------------
+num_1 = 5
+num_2 = 3
+
+string_1 = "Text 1"
+string_2 = "Text 2"
+
+list_1 = ["Value 1", "Value 2"]
+list_2 = ["Value 3", "Value 4"]
+
+dicc_1 = {"Class 1": "Class 2"}
+dicc_2 = {"Class 3": "Class 4"}
