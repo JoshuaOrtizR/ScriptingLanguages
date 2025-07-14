@@ -15,7 +15,7 @@ At its core, token-based authentication involves a client proving its identity t
 
 -----
 
-## Key Security Considerations
+## Security Considerations
 
 ### Token Generation & Validation
 
