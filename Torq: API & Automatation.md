@@ -2,11 +2,11 @@
 
 # Token-Based Authentication for APIs
 
-Token-based authentication is a standard method to secure your API endpoints, ensuring only authorized users or systems can interact with them. As a cybersecurity engineer, understanding this mechanism is key to building and defending secure applications.
+Token-based authentication is a standard method to secure your API endpoints, ensuring only authorized users or systems can interact with them.
 
 ## How It Works
 
-At its core, token-based authentication involves a client proving its identity to an API by presenting a **token**.
+token-based authentication involves a client proving its identity to an API by presenting a **token**.
 
 1.  **Request a Token:** A client (e.g., your security script, a web application) first authenticates with an authentication server using its credentials (like an API key: a `client_id` and `client_secret`).
 2.  **Receive Token:** If authentication is successful, the server issues a **token** (often a "bearer token"). Think of this token as a temporary access badge.
