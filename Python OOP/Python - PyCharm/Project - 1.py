@@ -34,7 +34,7 @@ a = str(a)
 print(a)
 print(type(a))
 
-#-----------------------------------------------------------------------------------
+#------------------------------------------------------------------------------
 #Temperature Converter
 
 #unit = input("Is this temperature in Celcius or Fahrenheit: (C/F)")
