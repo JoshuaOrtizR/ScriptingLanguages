@@ -9,11 +9,11 @@
     * List all files and directories, including hidden ones.
 * `ls -l`
     * List files and directories with detailed information (permissions, owner, size, etc.).
-* `ls -lh` or `ls --human-readable`
+* `ls -lh` or `ls
     * List files and directories with detailed information and human-readable file sizes (e.g., 1K, 234M, 2G).
 * `ls -t`
     * List files and directories by modification time, with the newest first.
-* `stat [file]`
+* `stat [file]
     * Display detailed status for a file, including size, timestamps, and permissions.
 * `tree`
     * Recursively list directories and files in a tree-like format.
